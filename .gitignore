@@ -6,3 +6,4 @@
 *.swo
 .idea
 pip-log.txt*
+/*.txt
